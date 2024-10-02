@@ -1,0 +1,4 @@
+C:\Users\aluno.cad\source\repos\interfaces\interfaces\obj\Debug\net8.0\interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.cad\source\repos\interfaces\interfaces\obj\Debug\net8.0\interfaces.AssemblyInfoInputs.cache
+C:\Users\aluno.cad\source\repos\interfaces\interfaces\obj\Debug\net8.0\interfaces.AssemblyInfo.cs
+C:\Users\aluno.cad\source\repos\interfaces\interfaces\obj\Debug\net8.0\interfaces.csproj.CoreCompileInputs.cache
